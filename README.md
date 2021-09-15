@@ -9,7 +9,7 @@ README.md
 
 <div>
 <a href="https://github.com/kurat420">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrantunesk&show_icons=true&theme-blue&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmrantunes&show_icons=true&theme-blue&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrantunes&layout=compact&langs_count=16&theme-blue" />
 </div>
 <div style="display: inline_block"><br>
