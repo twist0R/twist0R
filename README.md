@@ -3,7 +3,7 @@ README.md
 
 🤙 Hello! I'm Rafael and I'm a multi-language Programmer, more focused on FiveM and Web Developing
 
-💻 - I'am Backend developer mainly Nodejs , Go and 🐌 FiveM Scripting 
+💻 - I'am Back-end developer mainly Nodejs , Go and 🐌 FiveM Scripting 
 
 👦 - Pronouns : kurat/ANTUNES
 
