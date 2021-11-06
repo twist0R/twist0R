@@ -6,8 +6,9 @@ README.md
 💻 - I'am Back-end developer mainly Nodejs , Go and 🐌 FiveM Scripting 
 
 👦 - Pronouns : kurat/ANTUNES
-![](https://discord.c99.nl/widget/theme-4/878383305609838653.png) 
 
+
+![](https://discord.c99.nl/widget/theme-4/878383305609838653.png) 
 <div>
 <a href="https://github.com/kurat420">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kurat420&show_icons=true&theme-github_dark&include_all_commits=true&count_private=true"/>
