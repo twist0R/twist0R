@@ -6,6 +6,7 @@ README.md
 💻 - I'am Back-end developer mainly Nodejs , Go and 🐌 FiveM Scripting 
 
 👦 - Pronouns : kurat/ANTUNES
+![](https://discord.c99.nl/widget/theme-4/878383305609838653.png) 
 
 <div>
 <a href="https://github.com/kurat420">
