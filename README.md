@@ -10,27 +10,24 @@ README.md
 
 ![](https://discord.c99.nl/widget/theme-4/878383305609838653.png) 
 <div>
-<a href="https://github.com/kurat420">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kurat420&show_icons=true&theme-github_dark&include_all_commits=true&count_private=true"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+<p align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <a href="https://github.com/kurat420">
+      <img src="https://github-readme-stats.vercel.app/api/?username=kurat420&title_color=ec7460&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=ec7460&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
+    </td>
+      <td align="center" style="padding=0;width=50%;">
+      <a href="https://github.com/joe-rogan-0001">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kurat420&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=ec7460&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=ec7460&hide_title=true&count_private=true&enable_animations=true" />
+    </td>
+  </tr>
+</p>
 
-##
-<div> 
-
-  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contact.kuratofficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/kurat420" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/selfcoder" target="_blank"><img src="https://img.shields.io/badge/-Steam-%230077B5?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<p align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <a href="https://github.com/kurat420">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=kurat420&theme=tokyonight_duo&hide_border=true&ring=ec7460&currStreakLabel=ec7460&sideNums=ec7460&dates=979797&sideLabels=ec7460&currStreakNum=ec7460&border=DD2727&stroke=00000000&background=00000000&fire=FF7600" />
+    </td>
+  </tr>
+</p>
