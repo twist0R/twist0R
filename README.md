@@ -7,7 +7,7 @@
 
 - 🤙 Hello! I'm Rafael and I'm a multi-language Programmer, more focused on FiveM and Web Developing
 
-- 💻 - I'am Back-end developer mainly Nodejs , Go and 🐌 FiveM Scripting 
+- 💻 - Full-stack developer with solid web development experience and Lua Scripting Focus more on FiveM 🐌
 
 - 👦 - Pronouns : kurat/ANTUNES
 
