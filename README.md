@@ -9,7 +9,7 @@
 
 - 💻 - Full-stack developer with solid web development experience and Lua Scripting , Focus more on FiveM 🐌
 
-- 👦 - Pronouns : kurat/ANTUNES
+- 👦 - Pronouns : ANTUNES / tw1st0R-
 
 
 ![](https://komarev.com/ghpvc/?username=kurat420&label=COOL_PEOPLE)
