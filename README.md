@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Kurat420's profile!
+  Welcome to ANTUNES's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
