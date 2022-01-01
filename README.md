@@ -11,6 +11,10 @@
 
 - 👦 - Pronouns : ANTUNES / tw1st0R-
 
+### Spotify Playing 🎧
+
+<img src="https://spotify-now-playing-a04f3692f.vercel.app/api/spotify-playing" alt="kurat420 Spotify Playing" width="350" />
+
 
 ![](https://komarev.com/ghpvc/?username=kurat420&label=COOL_PEOPLE)
 ## Languages and Tools
