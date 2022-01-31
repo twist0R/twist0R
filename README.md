@@ -9,7 +9,7 @@
 
 ```javascript
 const kurat420  = {
-    pronouns: "Rafael", "Amtunes",
+    pronouns: "Rafael", "Antunes",
     code: ["LUA", "HTML", "CSS", "Python(), MySQL", "Java", "JS", "VB", "C#"],
     askMeAbout:  {
       achievements: ["Multi-language Programmer Amateur", "Semi-Professional Combat Arms Player"],
