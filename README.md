@@ -1,24 +1,30 @@
 <h3 align="center">
   Welcome to ANTUNES's profile!
+  <img align='right' src="https://discord.c99.nl/widget/theme-4/878383305609838653.png" width="410">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 
+###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
 
-- 🤙 Hello! I'm Rafael and I'm a  multi-language Programmer Amateur;
+```javascript
+const kurat420  = {
+    pronouns: "Rafael", "Amtunes",
+    code: ["LUA", "HTML", "CSS", "Python(), MySQL", "Java", "JS", "VB", "C#"],
+    askMeAbout:  {
+      achievements: ["Multi-language Programmer Amateur", "Semi-Professional Combat Arms Player"],
+        },
+    technologies: {
+        databases: ["MySql","SQLite","MariaDB"]
+    },
+    currentProject: "Making new scripts for FiveM🐌",
+};
+```
+##
 
-- 💻 - Full-stack developer with solid web development experience and Lua Scripting , Focus more on FiveM 🐌
-
-- 👦 - Pronouns : ANTUNES / tw1st0R-
-
-### Spotify Playing 🎧
-
-<img src="https://spotify-now-playing-a04f3692f.vercel.app/api/spotify-playing" alt="kurat420 Spotify Playing" width="350" />
-
-
-![](https://komarev.com/ghpvc/?username=kurat420&label=COOL_PEOPLE)
-## Languages and Tools
+### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -29,15 +35,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<p align="right">
-  <tr>
-    <td align="right" style="padding=32;width=85%;">
-      <a href="https://github.com/kurat420">
-      <img src="https://discord.c99.nl/widget/theme-4/878383305609838653.png" />
-    </td>
-  </tr>
-</p>
 <div>
   <p align="center">
   <tr>
