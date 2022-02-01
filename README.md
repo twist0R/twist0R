@@ -1,7 +1,7 @@
 <h3 align="center">
   Welcome to ANTUNES's profile!
   <img align='right' src="https://discord.c99.nl/widget/theme-4/878383305609838653.png" width="410">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://i.imgur.com/VLBb85Z.png" width="28">
 </h3>
 
 
