@@ -17,7 +17,7 @@ const kurat420  = {
     technologies: {
         databases: ["MySql","SQLite","MariaDB"]
     },
-    currentProject: "NSHOP 🐌",
+    currentProject: "Waiting for new offers.. 🐌",
 };
 ```
 ##
