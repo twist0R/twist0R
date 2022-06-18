@@ -10,7 +10,7 @@
 ```javascript
 const kurat420  = {
     pronouns: "Rafael", "Antunes",
-    Some experience in: ["C++, TypeScript, LUA, PHP, and React. Amongst other languages."],
+    SomeExperienceIn: ["C++, TypeScript, LUA, PHP, and React. Amongst other languages."],
     askMeAbout:  {
       achievements: ["Multi-language Programmer Amateur", "Semi-Professional Combat Arms Player"],
         },
