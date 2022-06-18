@@ -10,14 +10,14 @@
 ```javascript
 const kurat420  = {
     pronouns: "Rafael", "Antunes",
-    code: ["LUA", "HTML", "CSS", "Python(), MySQL", "Java", "JS", "VB", "C#"],
+    Some experience in: ["C++, TypeScript, LUA, PHP, and React. Amongst other languages."],
     askMeAbout:  {
       achievements: ["Multi-language Programmer Amateur", "Semi-Professional Combat Arms Player"],
         },
     technologies: {
         databases: ["MySql","SQLite","MariaDB"]
     },
-    currentProject: "SecondLife Roleplay 🌆🐌",
+    currentProjects: "NShop 🐌 & SecondLife Roleplay 🌆",
 };
 ```
 ##
