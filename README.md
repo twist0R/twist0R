@@ -1,10 +1,3 @@
-<h3 align="center">
-<img src="https://cdn.discordapp.com/attachments/986246631986958427/1009437017400164393/unknown.png" width="28">
-  Welcome to ANTUNES's profile!
-  <img src="https://cdn.discordapp.com/attachments/986246631986958427/1009437017400164393/unknown.png" width="28">
-</h3>
-
-
 ###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
 
 ```javascript
