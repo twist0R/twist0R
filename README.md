@@ -3,7 +3,7 @@
 ```javascript
 const twist0R  = {
     pronouns: "Rafael", "Antunes",
-    SomeExperienceIn: ["Some experience in: HTML, TypeScript, LUA, PHP, and React. Among other languages."],
+    SomeExperienceIn: ["HTML, TypeScript, LUA, PHP, and React. Among other languages."],
     askMeAbout:  {
       achievements: ["Multi-language Programmer Amateur", "Semi-Professional Combat Arms Player"],
         },
