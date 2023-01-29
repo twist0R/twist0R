@@ -10,7 +10,7 @@ const twist0R  = {
     technologies: {
         databases: ["MySql","SQLite","MariaDB"]
     },
-    currentProjects: "Working for @EpicGames & @NVIDIAGameWorks",
+    currentProjects: "Working for @EpicGames & @NVIDIAGameWorks and @Karma-Chat & @Karma-Developments",
 };
 ```
 ##
